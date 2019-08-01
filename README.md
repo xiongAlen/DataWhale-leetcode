@@ -1,2 +1,2 @@
-# DataWhile-leetcode
+# DataWhale-leetcode
 leetcode-offer
